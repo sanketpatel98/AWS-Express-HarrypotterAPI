@@ -13,3 +13,5 @@
 # AWS_ACCESS_KEY_ID= your-key-id
 # AWS_SECRET_ACCESS_KEY= your-access-key
 # AWS_DEFAULT_REGION= your-database-region
+
+# deployed link: https://harrypotter-api-dynamodb.herokuapp.com/
