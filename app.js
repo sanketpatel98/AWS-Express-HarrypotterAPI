@@ -1,3 +1,7 @@
+// Created by Sanket Patel on 31st August 2022
+// purpose : To learn AWS Dynamo db
+// .env file can be found on your email.
+
 const express = require ('express')
 const { getCharacters, getCharactersById, addOrUpdateCharacter, deleteCharacter } = require('./dynamo')
 const app = express()
